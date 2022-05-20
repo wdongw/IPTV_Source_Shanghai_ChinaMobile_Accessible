@@ -41,3 +41,8 @@ These IPTV address are working for me. I live in Shanghai, and I have a broadban
 Your support will be great. <br />
 非常欢迎任何人的帮助。<br />
 mailto: w_dong_w@163.com
+
+<br /><br /><br />
+> **声明：**
+> 整理这个文件纯属疫情期间个人需要，孩子上网课，自己需要娱乐。
+如有侵犯您的权益，请通知我。
