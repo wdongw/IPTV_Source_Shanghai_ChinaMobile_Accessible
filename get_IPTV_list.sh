@@ -18,9 +18,9 @@ fi
 
 # Remove the IPTV list and copy the new one.  
 if [ -e /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u ]; then 
-	rm -rf /share/Web/IPTV/refined.m3u
+	rm -rf /share/Web/refined.m3u
     if [ $?==0 ] ; then 
-		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u /share/Web/IPTV/refined.m3u ; 
+		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u /share/Web/refined.m3u ; 
 	fi  
 fi
 
