@@ -89,7 +89,7 @@ http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
 http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
 http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-id="6579" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
 http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频道",CCTV央视台球
 http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
@@ -101,11 +101,11 @@ http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="美食料理",Tastemade 制作美味 (720p)
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 纪录频道
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 纪录频道
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 生活频道
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryAsia" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 生活频道
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 科学频道
+#EXTINF:-1 tvg-id="" tvg-name="Discovery科学" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 科学频道
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 动物频道
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
@@ -523,7 +523,7 @@ https://gccncc.v.wscdns.com/gc/bsszbcs_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/bssztt_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="全国景区" , 金山
 https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道兰州大学" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Notional Geographic 国家地理
+#EXTINF:-1 tvg-id="" tvg-name="国家地理频道兰州大学" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Notional Geographic 国家地理
 http://Lanzhou.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="6166" tvg-name="Discovery兰州大学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然人文",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="Discovery兰州大学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然人文",Discovery
 http://Lanzhou.edu.cn/hls/discovery.m3u8
