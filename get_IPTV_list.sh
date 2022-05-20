@@ -30,7 +30,7 @@ if [ -e /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/get_IPTV_lis
 	rm -rf /share/Web/IPTV/get_IPTV_list.sh
     if [ $?==0 ] ; then 
 		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/get_IPTV_list.sh /share/Web/IPTV/get_IPTV_list.sh ; 
-		chmod 777 /share/Web/refined.m3u
+		chmod 777 /share/Web/IPTV/get_IPTV_list.sh ;
 	fi  
 fi
 
