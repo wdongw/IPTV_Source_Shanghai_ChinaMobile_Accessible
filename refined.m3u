@@ -101,9 +101,9 @@ http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="美食料理",Tastemade 制作美味 (720p)
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="NationalGeographic" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Notional Geographic 国家地理
+#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道(兰州大学)" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Notional Geographic 国家地理
 ,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery（兰州大学）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然人文",Discovery
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://192.168.1.253/IPTV/Logos/Discovery_logo.png" group-title="自然人文",Discovery 纪录频道
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
