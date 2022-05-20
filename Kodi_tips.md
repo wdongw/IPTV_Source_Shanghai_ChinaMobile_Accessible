@@ -16,3 +16,7 @@ me@mymbp userdata % cat advancedsettings.xml
 </cache>
 </advancedsettings>
 ```
+
+- 国家地理和探索频道兰州大学源，必须修改/etc/hosts文件以访问。Kodi解析IPv6地址有问题。 
+添加一行到/etc/hosts里面:
+`2001:da8:c000:1201:f816:3eff:fe09:940e lanzhou.edu.cn`
