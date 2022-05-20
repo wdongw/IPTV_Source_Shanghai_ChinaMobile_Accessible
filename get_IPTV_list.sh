@@ -21,6 +21,7 @@ if [ -e /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u 
 	rm -rf /share/Web/refined.m3u
     if [ $?==0 ] ; then 
 		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u /share/Web/refined.m3u ; 
+		chmod 666 /share/Web/refined.m3u
 	fi  
 fi
 
