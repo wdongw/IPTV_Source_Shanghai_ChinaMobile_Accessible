@@ -1,9 +1,11 @@
 #! /bin/sh
 
-# Don't know the reason git look up ssh in /opt/bin, 
-# and cannot change by git config --global core.sshCommand "/usr/bin/ssh /root/.ssh/id_rsa.pub -F /dev/null".
+# Don't know the reason git just ignores $PATH, excutes `ssh in `/opt/bin`, 
+# and cannot change by `git config --global core.sshCommand "/usr/bin/ssh /root/.ssh/id_rsa.pub -F /dev/null"`.
 # Simply make a symble link. 
-ln -s /usr/bin/ssh /opt/bin/ssh
+if [ ! -e /opt/bin/ssh ]; then
+	ln -s /usr/bin/ssh /opt/bin/ssh
+fi
 
 # Check if the cloned repository exists. If yes, remove it. 
 if [ -e /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible ]; then 
@@ -17,7 +19,7 @@ if [ $?==0 ] ; then
 fi
 
 # Remove the IPTV list and copy the new one.  
-if [ -e /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u ]; then 
+if [ $?==0 ]; then 
 	rm -rf /share/Web/refined.m3u
     if [ $?==0 ] ; then 
 		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/refined.m3u /share/Web/refined.m3u ; 
