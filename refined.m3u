@@ -114,7 +114,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.pngtvg-id=" group-title="自然人文",上海人文纪实 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="" tvg-logo="https://p3.statickksmg.com/image/2017/01/22/8865ba981c1598e11094abbc99f5120f.png" group-title="自然人文", 上海ICS外语频道
-https://hw-stream.kksmg.com/live/wypdc4eb57c5.m3u8?auth_key=1652843358-11232159-0-dcfc292454d2ceaad96cd3c4e90f2954
+https://livemixer1.kksmg.com/tvlive/wypd/d77f83e8-2317-4c6f-9891-db8eafd354f7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然人文",成都大熊猫 (1080p) [Not 24/7]
 https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然人文",NASA TV Media (720p)
