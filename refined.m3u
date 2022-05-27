@@ -112,7 +112,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="自然人文",CGTN Documentary 纪录片(576p
 http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.pngtvg-id=" group-title="自然人文",上海人文纪实 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+https://livemixer1.kksmg.com/tvlive/jspd/f5b4d93c-b453-44f2-b11d-f087c52343b3.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="" tvg-logo="https://p3.statickksmg.com/image/2017/01/22/8865ba981c1598e11094abbc99f5120f.png" group-title="自然人文", 上海ICS外语频道
 https://livemixer1.kksmg.com/tvlive/wypd/d77f83e8-2317-4c6f-9891-db8eafd354f7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自然人文",成都大熊猫 (1080p) [Not 24/7]
@@ -156,7 +156,7 @@ http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://p3.statickksmg.com/image/2017/01/22/9f31655009e37917eceeb573c02c439c.png" group-title="地方卫视",东方卫视
 http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方卫视",上海都市
-http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
+https://livemixer1.kksmg.com/tvlive/dspd/9ad9345c-d897-4dc4-8afd-8b53f5b35fa2.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="欧美新闻",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="欧美新闻",Reuters路透社 (720p)
