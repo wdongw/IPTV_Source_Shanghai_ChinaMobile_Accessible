@@ -27,12 +27,14 @@ if [ $?==0 ]; then
 	fi  
 fi
 
-# Get the new version of this script itself. 
+# Get new version of scripts. 
 if [ -e /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/get_IPTV_list.sh ]; then 
-	rm -rf /share/Web/IPTV/get_IPTV_list.sh
+	rm -rf /share/Web/IPTV/get_IPTV_list.sh && rm -rf /share/Web/IPTV/keep_IPTV_list.sh
     if [ $?==0 ] ; then 
 		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/get_IPTV_list.sh /share/Web/IPTV/get_IPTV_list.sh ; 
-		chmod 777 /share/Web/IPTV/get_IPTV_list.sh ;
+		cp /share/Web/IPTV/IPTV_Source_Shanghai_ChinaMobile_Accessible/keep_IPTV_list.sh /share/Web/IPTV/keep_IPTV_list.sh;
+		chmod 777 /share/Web/IPTV/get_IPTV_list.sh;
+		chmod 777 /share/Web/IPTV/keep_IPTV_list.sh;
 	fi  
 fi
 
