@@ -6,6 +6,6 @@ else
         ps aux | grep git | grep -v grep >/dev/null 2>&1;
         if [ $? ]; then  
                 sleep 5;
-                ./get_IPTV_list.sh;
+                /share/Web/IPTV/get_IPTV_list.sh;
         fi
 fi
