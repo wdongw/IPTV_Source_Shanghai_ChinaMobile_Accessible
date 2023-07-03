@@ -42,6 +42,8 @@ Your support will be great. <br />
 非常欢迎任何人的帮助。<br />
 mailto: w_dong_w@163.com
 
+2023-07-03：删除失效源。遗留问题：全国景区部分失效源未删除。
+
 <br /><br /><br />
 > **声明：** <br />
 
